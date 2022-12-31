@@ -11,7 +11,5 @@ public class OddEvenUsingAND {
            else
                System.out.println("Odd"); // 00010111 & 00000001 it gives 1. so, else part will execute and print odd.
        }
-       else
-           System.out.println("Neutral");
     }
 }
